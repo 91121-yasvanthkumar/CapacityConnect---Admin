@@ -1,0 +1,6 @@
+{
+  "name": "Capacity Connect - MoES / IMD Portal",
+  "description": "Institutional capacity-building governance, curriculum management, competency modeling, and meteorological training administration portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
